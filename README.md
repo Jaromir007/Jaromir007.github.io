@@ -1,2 +1,2 @@
 # Jaromir007.github.io
-Extratech
+Extratech - úkol na WA
